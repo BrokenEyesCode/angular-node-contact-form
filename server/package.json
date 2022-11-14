@@ -1,0 +1,14 @@
+{
+  "name": "form-server",
+  "version": "1.0.0",
+  "description": "a simple rest api server for client data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

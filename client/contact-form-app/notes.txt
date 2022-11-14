@@ -1,0 +1,10 @@
+Angular forms
+https://angular.io/guide/reactive-forms
+https://angular.io/guide/accessibility
+
+Accessibile forms
+https://coryrylan.com/blog/build-accessible-forms-with-angular
+
+http service
+https://angular.io/guide/http
+https://medium.com/techiediaries-com/send-http-post-with-angular-9-8-httpclient-by-example-61e2dfdee8a9
